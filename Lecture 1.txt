@@ -1,0 +1,7 @@
+git --version
+
+Initialization - git init
+Connection - git remote add origin
+Adding - git add filename.
+Committing - git commit -m "commit message"
+Uploading - git push origin head
